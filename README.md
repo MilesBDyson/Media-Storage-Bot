@@ -5,4 +5,4 @@ Multi Axis Bot for managing large collections of hand size items like media or s
 ![](z.png)
 
 
-(https://hits.sh/github.com/MilesBDyson/Media-Storage-Bot.svg)
+[![Hits](https://hits.sh/github.com/MilesBDyson/Media-Storage-Bot.svg)](https://github.com/MilesBDyson/Media-Storage-Bot/tree/main)
